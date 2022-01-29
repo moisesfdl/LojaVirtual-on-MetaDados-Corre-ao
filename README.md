@@ -19,7 +19,7 @@ pagSeguro
 				String NIS = "12541632837";
 				String contractoSocialEletronic = "contractoSocialEletronic-MetaDados&Correçao";
 				
-				String nome = "moises ferreira de lima";
+					String nome = "moises ferreira de lima";
 				long produtoUSD = 900000+750000+550000+5000000+12000000;
 				double valorUsdReal = 900000+750000+550000+5000000+12000000*5.4;
 				String uri="https://metadados.sualojaonline.app";
@@ -46,8 +46,8 @@ pagSeguro
 				String lonjaVirtualOn = " "+nome+"\n "+" CPF : "+cpf+"\n "+" RG : "+rg+"\n "+" CNPJ : "
 						+cnpj+"\n\n "+" Hotmail : "+hotmail+"\n "+" Celular : "+celular+"\n "+" CTPS : "
 								+ctps+"\n "+" Gmail : "+gmail+"\n "+" NIS : "+NIS+"\n "+contractoSocialEletronic
-								+"\n "+razaoSocial+"\n "+nomeFantasia+"\n "+" link Lonja Virtual on line MetaDados&Correçao"+"  href="+uri+"\n"+ofertaVendaProduto+"\n "+bradescoNetEmpresa;
-				String id = produtoUSD+"\n "+produtoEXP+"\n "+produtoXP+"\n\n "+" Eu moises ferreira de lima rg 27.950.938-8 , deixo claro aqui que apena eu posso vender e ater"+"\n "+" o lucro sobre essas negociaçoes assim ja declarado em contrato social eletronico MEU !";
+								+"\n "+razaoSocial+"\n "+nomeFantasia+"\n "+" link Lonja Virtual on line MetaDados&Correçao"+"  href="+uri+"\n"+ofertaVendaProduto+"\n "+bradescoNetEmpresa+"\n\n "+" Eu moises ferreira de lima rg 27.950.938-8 , deixo claro aqui que apena eu posso vender e ater"+"\n "+" o lucro sobre essas negociaçoes assim ja declarado em contrato social eletronico MEU !";
+				String id = produtoUSD+"\n "+produtoEXP+"\n "+produtoXP;
 				String NFe = id;
 				String venda = id+NFe;
 				if (ofertaVendaProduto == venda) {
