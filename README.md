@@ -34,7 +34,7 @@ pagSeguro
 				String fonteProdutoEXP = " Produto de oferta USD do direito da venda sobre "+" Minerator CriptoGame Euro Truck Simulator2"+"\n "+" Produto de oferta USD do direito da venda sobre"
 				+" Minerator CriptoGame American Truck Simulator "+"\n "+" Produto de oferta USD do direito da venda sobre"+" premio Um Milha Euro DoGame";
 				String estoqueProdutoEXP = "  Valor em DOLAR US "+" $ "+produtoEXP+".00"+"\n "+" Valor em Real Brasileiro"+" R$"+valorExpReal+",00"+" Real Brasileiro"+"\n "+fonteProdutoEXP;
-				double produtoXP  = 100000000*31/5.4;
+				double produtoXP  = 100000000*31.25/5.4;
 				double valorXpReal = 100000000*31.25/5.4*5.3;
 				String fonteProdutoXP = " Minerator CriptoGame American Truck Simulator "+"mineratorAppGameRivalGearsZerado"+"\n "+" Minerator CriptoGame American Truck Simulator "
 				+" Minerator AppGame NBAmobile"+"\n "+" Minerator CriptoGame American Truck Simulator "+" Minerator AppGame Real Racing 3EAgame";
