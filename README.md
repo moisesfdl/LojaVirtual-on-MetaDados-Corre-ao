@@ -44,7 +44,7 @@ pagSeguro
 				String bradescoNetEmpresa = " banco BRADESCOnetEMPRESA "+"\n"+"  Conta = "+"40054-8"+"\n "+" percentual ganho sobre a venda R$ "+rendaProvisoriaGanho+",00"+"\n "+" Credito em conta todo dia "+"0"+todoDia;
 				String ofertaVendaProduto =	 estoqueProdutoUSD+"\n "+estoqueProdutoEXP+"\n "+estoqueProdutoXP;
 				String lonjaVirtualOn = " "+nome+"\n "+" CPF : "+cpf+"\n "+" RG : "+rg+"\n "+" CNPJ : "
-						+cnpj+"\n\n "+" Hotmail : "+hotmail+"\n "+" Celular : "+celular+"\n "+" CTPS : "
+						+cnpj+"\n "+" Hotmail : "+hotmail+"\n "+" Celular : "+celular+"\n "+" CTPS : "
 								+ctps+"\n "+" Gmail : "+gmail+"\n "+" NIS : "+NIS+"\n "+contractoSocialEletronic
 								+"\n "+razaoSocial+"\n "+nomeFantasia+"\n "+" link Lonja Virtual on line MetaDados&Correçao"+"  href="+uri+"\n"+ofertaVendaProduto+"\n "+bradescoNetEmpresa+"\n\n "+" Eu moises ferreira de lima rg 27.950.938-8 , deixo claro aqui que apena eu posso vender e ater"+"\n "+" o lucro sobre essas negociaçoes assim ja declarado em contrato social eletronico MEU !";
 				String id = produtoUSD+"\n "+produtoEXP+"\n "+produtoXP;
