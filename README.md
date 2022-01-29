@@ -20,8 +20,8 @@ pagSeguro
 				String contractoSocialEletronic = "contractoSocialEletronic-MetaDados&Correçao";
 				
 					String nome = "moises ferreira de lima";
-				long produtoUSD = 900000+750000+550000+5000000+12000000;
-				double valorUsdReal = 900000+750000+550000+5000000+12000000*5.4;
+				double produtoUSD = 900000+750000+550000+5000000+12000000*5.4;
+				double valorUsdReal = 900000+750000+550000+5000000+12000000*5.4*5.3;
 				String uri="https://metadados.sualojaonline.app";
 				String  fonteProdutoUSD = " Eu MOISES FERREIRA DE LIMA RG 27.950.938-8 , ganhador do premio , estou usando o meu direito de vender a moeda USD do premio"+"premioFacebook"+"\n "
 				+" Eu MOISES FERREIRA DE LIMA RG 27.950.938-8 , ganhador do premio , estou usando o meu direito de vender a moeda USD do premio"+"premioMicrosoft"
