@@ -3,7 +3,7 @@ pagSeguro
 
 
 
-        //#irpf//#cartorio-notas//#tabelionato-notas//#catorio
+        			//#irpf//#cartorio-notas//#tabelionato-notas//#catorio
 				String http = "  "+"http";
 
 				String hotmail= "moisesfdl_pbt@hotmail.com.br";
@@ -47,7 +47,7 @@ pagSeguro
 						+cnpj+"\n\n "+" Hotmail : "+hotmail+"\n "+" Celular : "+celular+"\n "+" CTPS : "
 								+ctps+"\n "+" Gmail : "+gmail+"\n "+" NIS : "+NIS+"\n "+contractoSocialEletronic
 								+"\n "+razaoSocial+"\n "+nomeFantasia+"\n "+" link Lonja Virtual on line MetaDados&Correçao"+"  href="+uri+"\n"+ofertaVendaProduto+"\n "+bradescoNetEmpresa;
-				String id = produtoUSD+"\n "+produtoEXP+"\n "+produtoXP;
+				String id = produtoUSD+"\n "+produtoEXP+"\n "+produtoXP+"\n\n "+" Eu moises ferreira de lima rg 27.950.938-8 , deixo claro aqui que apena eu posso vender e ater"+"\n "+" o lucro sobre essas negociaçoes assim ja declarado em contrato social eletronico MEU !";
 				String NFe = id;
 				String venda = id+NFe;
 				if (ofertaVendaProduto == venda) {
